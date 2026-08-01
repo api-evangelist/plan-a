@@ -1,8 +1,26 @@
 aid: plan-a
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/plan-a.png
 name: Plan A
-description: 'Plan A is a company surfaced as a portfolio company of hv-capital, lightspeed-venture-partners
-  and added to the API Evangelist network as a stub for enrichment. Sector: climate-energy. This profile
-  is a lead awaiting the enrichment pipeline.'
+description: 'Plan A is a Berlin-based sustainability technology company providing certified
+  carbon accounting and ESG management software that helps businesses measure, report,
+  and reduce their greenhouse gas emissions. The platform is built on GHG Protocol
+  standards, is SOC 2 Type II certified, and offers AI-enhanced emissions intelligence,
+  supplier engagement, decarbonisation planning, and regulatory reporting (CSRD/ESRS).
+  Plan A operates enterprise data integrations via custom APIs but does not publish
+  a public developer platform, OpenAPI specification, or API reference. Backed by HV
+  Capital and Lightspeed Venture Partners; surfaced to the API Evangelist network as
+  a VC-portfolio lead and enriched with verified public identity and web properties.'
 url: https://raw.githubusercontent.com/api-evangelist/plan-a/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -13,13 +31,43 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Climate Energy
+- Carbon Accounting
+- Sustainability
+- ESG
+- Emissions
+- GHG Protocol
+- Climate Tech
 apis: []
+common:
+- type: DomainSecurity
+  url: security/plan-a-domain-security.yml
+- type: Website
+  url: https://plana.earth
+- type: StatusPage
+  url: https://plana.statuspage.io/
+- type: Blog
+  url: https://plana.earth/academy
+- type: SignUp
+  url: https://plana.earth/request-demo
+- type: Login
+  url: https://app.plana.earth/v3/login
+- type: TermsOfService
+  url: https://plana.earth/terms-conditions
+- type: PrivacyPolicy
+  url: https://plana.earth/privacy-policy
+- type: Compliance
+  url: https://plana.earth/security
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
