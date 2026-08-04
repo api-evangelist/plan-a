@@ -2,13 +2,20 @@
   "repo": "plan-a",
   "feeds": [
     {
+      "source": "https://plana.statuspage.io/history.atom",
+      "feed_url": "https://plana.statuspage.io/history.atom",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://plana.statuspage.io/",
       "feed_url": "https://plana.statuspage.io/history.atom",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "discovered"
     }
   ],
-  "post_count": 1,
-  "fetched": "2026-07-25T15:00:33Z"
+  "post_count": 16,
+  "fetched": "2026-08-01T15:49:00Z"
 }
