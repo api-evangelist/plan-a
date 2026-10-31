@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Plan A is a company surfaced as a portfolio company of hv-capital, lightspeed-venture-partners and added to the API Evangelist network as a stub for enrichment. Sector: climate-energy. This profile is a lead awaiting the enrichment pipeline.
+Plan A is a Berlin-based sustainability technology company providing certified carbon accounting and ESG management software that helps businesses measure, report, and reduce their greenhouse gas emissions. The platform is built on GHG Protocol standards, is SOC 2 Type II certified, and offers AI-enhanced emissions intelligence, supplier engagement, decarbonisation planning, and regulatory reporting (CSRD/ESRS). Plan A operates enterprise data integrations via custom APIs but does not publish a public developer platform, OpenAPI specification, or API reference. Backed by HV Capital and Lightspeed Venture Partners; surfaced to the API Evangelist network as a VC-portfolio lead and enriched with verified public identity and web properties.
 
-Backed by: hv-capital, lightspeed-venture-partners
+**Areas:** Company · Climate Energy · Carbon Accounting · Sustainability · ESG · Emissions · GHG Protocol · Climate Tech
+
+## Plan A on APIs.io
+
+Everything profiled for Plan A is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/plan-a/](https://apis.io/providers/plan-a/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Plan A Domain Security](https://apis.io/security/plan-a/plan-a-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://plana.earth)
+- [Sign up](https://plana.earth/request-demo)
+- [Blog](https://plana.earth/academy)
+- [Compliance](https://plana.earth/security)
+- [Terms of service](https://plana.earth/terms-conditions)
+- [Privacy policy](https://plana.earth/privacy-policy)
+- [Status](https://plana.statuspage.io/)
+
+## API Evangelist rating
+
+**Kin Score 16.1** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 42.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 15.6** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/plan-a/](https://apis.io/providers/plan-a/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Plan A: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/plan-a/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
